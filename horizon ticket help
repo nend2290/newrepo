@@ -1,6 +1,6 @@
 horizon ticket help
 1. how do i install configuration? -  https://pastebin.com/raw/yzcgSMH6
-2. programm instantly closes after launching - https://pastebin.com/raw/cy4ZL8RZ
+2. programm instantly closes after launching(look down for a first step) - https://pastebin.com/raw/cy4ZL8RZ
 (if user has error 22 use step nr 4)
 3. vulnerable driver error - https://horizon-hidout.gitbook.io/horizon-hideout/vulnerability-driver
 4. timestamp desync - https://horizon-hidout.gitbook.io/horizon-hideout/timestamp
@@ -9,3 +9,8 @@ https://pastebin.com/raw/eXr6Vwje
 6. driver not mapped - the only way tofix this is to reload ur pc
 7. dll not found - https://horizon-hidout.gitbook.io/horizon-hideout/dll-error
 8. not locking on the people - ask user to open his console by pressing shift+f9 in roblox, and you screenshot of this (if u dont understand anything abt roblox console errors - ping @nendx)
+ask user to open cmd as an administrator
+run command net start w32time
+and then run command
+w32tm /resync
+it will fix the 22 error
