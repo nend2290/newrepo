@@ -8,7 +8,8 @@ horizon ticket help
 https://pastebin.com/raw/eXr6Vwje
 6. driver not mapped - the only way tofix this is to reload ur pc
 7. dll not found - https://horizon-hidout.gitbook.io/horizon-hideout/dll-error
-8. not locking on the people - ask user to open his console by pressing shift+f9 in roblox, and you screenshot of this (if u dont understand anything abt roblox console errors - ping @nendx)
+8. not locking on the people - ask user to open his console by pressing shift+f9 in roblox, and send you screenshot of this (if u dont understand anything abt roblox console errors - ping @nendx)
+FASTEST WAY TO FIX 22
 ask user to open cmd as an administrator
 run command net start w32time
 and then run command
