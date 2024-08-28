@@ -15,3 +15,12 @@ run command net start w32time
 and then run command
 w32tm /resync
 it will fix the 22 error
+
+
+1.run ur cmd as an admin
+https://cdn.discordapp.com/attachments/1278411073325760574/1278419491596009555/image.png?ex=66d0bc6e&is=66cf6aee&hm=c9bbad864f983b7c4bd249eb0b2f0d0aa211b9cb6035e458efad53692f43b376&
+2.type net start w32time and wait untill it will say that service has started
+https://media.discordapp.net/attachments/1278411073325760574/1278419492254253117/image.png?ex=66d0bc6e&is=66cf6aee&hm=227b2eb2ab92adf719fcf46979a88efca81273d3368a14dc1284b23edc1336b2&=&format=webp&quality=lossless&width=662&height=106
+3.now type w32tm/resync
+https://media.discordapp.net/attachments/1278411073325760574/1278419492707500205/image.png?ex=66d0bc6e&is=66cf6aee&hm=0418ac9ae0803b71b63ae3d5b5732fdb6e7c535b2125bf543a9034fef4b23bdd&=&format=webp&quality=lossless&width=483&height=102
+if everything worked it should say that command completed succesfully
