@@ -9,13 +9,10 @@ https://pastebin.com/raw/eXr6Vwje
 6. driver not mapped - the only way tofix this is to reload ur pc
 7. dll not found - https://horizon-hidout.gitbook.io/horizon-hideout/dll-error
 8. not locking on the people - ask user to open his console by pressing shift+f9 in roblox, and send you screenshot of this (if u dont understand anything abt roblox console errors - ping @nendx)
-FASTEST WAY TO FIX 22
-ask user to open cmd as an administrator
-run command net start w32time
-and then run command
-w32tm /resync
-it will fix the 22 error
 
+
+
+FASTEST WAY TO FIX 22
 
 1.run ur cmd as an admin
 https://cdn.discordapp.com/attachments/1278411073325760574/1278419491596009555/image.png?ex=66d0bc6e&is=66cf6aee&hm=c9bbad864f983b7c4bd249eb0b2f0d0aa211b9cb6035e458efad53692f43b376&
@@ -24,3 +21,17 @@ https://media.discordapp.net/attachments/1278411073325760574/1278419492254253117
 3.now type w32tm/resync
 https://media.discordapp.net/attachments/1278411073325760574/1278419492707500205/image.png?ex=66d0bc6e&is=66cf6aee&hm=0418ac9ae0803b71b63ae3d5b5732fdb6e7c535b2125bf543a9034fef4b23bdd&=&format=webp&quality=lossless&width=483&height=102
 if everything worked it should say that command completed succesfully
+
+
+CORE ISOLATION FIX(USER STILL HAS VULNERABLE DRIVER ERROR AFTER FIXING IT)
+MAKE SURE U DID THIS FIX FIRST
+https://horizon-hidout.gitbook.io/horizon-hideout/vulnerability-driver
+________
+press win
+find core isolation and open it
+https://cdn.discordapp.com/attachments/1178680043996729415/1278422536245219390/image.png?ex=66d0bf44&is=66cf6dc4&hm=3575413ab66316d8615147a04c60cd6b45de336aec502cc24e81c719e065e274&
+(you may have another menu popped up, choose core isolation in it too)
+turn off all these functions
+https://cdn.discordapp.com/attachments/1178680043996729415/1278424909743128618/image.png?ex=66d0c17a&is=66cf6ffa&hm=90021118b9c756b9399719accea5ef9144068613de69d8130f7ed6a6dff9cda6&
+reload ur pc
+DONE 
