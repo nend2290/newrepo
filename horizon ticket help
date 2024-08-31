@@ -1,6 +1,6 @@
 horizon ticket help
 1. how do i install configuration? -  https://pastebin.com/raw/yzcgSMH6
-2. programm instantly closes after launching(first time try fix n4, and if its not working - debug it) - https://pastebin.com/raw/cy4ZL8RZ
+2. programm instantly closes after launching(first time try fix n4, and if its not working - ask him to send u the latest log)
 (if user has error 22 use step nr 4)
 3. vulnerable driver error - https://horizon-hidout.gitbook.io/horizon-hideout/vulnerability-driver
 4. timestamp desync(fastest way to fix below) - https://horizon-hidout.gitbook.io/horizon-hideout/timestamp
